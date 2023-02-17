@@ -4,8 +4,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * The solution for the most recent listing of each address question. Time complexity = O(n) and
- * space complexity = O(n).
+ * The solution for the most recent listing of each address question.
+ * <p>
+ * Time complexity = O(n) and space complexity = O(n).
  */
 public class Solution {
 
